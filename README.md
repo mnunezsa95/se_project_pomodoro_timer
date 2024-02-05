@@ -9,6 +9,6 @@
    - If not, go to [python.org](https://www.python.org/) to install
 4. Install Python extension by intelligence
 
-## Running the
+## Running the Application
 
 1. Navigate to the `main.py` file and run the code
